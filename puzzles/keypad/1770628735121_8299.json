@@ -1,0 +1,18 @@
+{
+  "type": "keypad",
+  "difficulty": "hard",
+  "icons": [
+    "Flame",
+    "Ghost",
+    "Anchor",
+    "Zap"
+  ],
+  "solutionOrder": [
+    3,
+    0,
+    2,
+    1
+  ],
+  "question": "天雷降世劃破混沌，赤焰隨之焚盡凡塵；定海之石沉入幽冥，引得孤魂低語前行。",
+  "hint": "依序選取：閃電、烈火、鐵錨、亡靈。"
+}
