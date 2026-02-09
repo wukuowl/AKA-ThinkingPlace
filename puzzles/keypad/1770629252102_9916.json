@@ -1,0 +1,18 @@
+{
+  "type": "keypad",
+  "difficulty": "hard",
+  "icons": [
+    "Ghost",
+    "Flame",
+    "Skull",
+    "Anchor"
+  ],
+  "solutionOrder": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "question": "古老的序章由紅蓮業火點燃，焚盡眾生後僅餘枯槁白骨。於無盡深海投下沉重的鐵錨，在那靜止的深處，唯有不散的幽魂永恆漂流。",
+  "hint": "依序尋找：燃燒的能量、生命的終點、航行的止點、死後的殘影。"
+}
