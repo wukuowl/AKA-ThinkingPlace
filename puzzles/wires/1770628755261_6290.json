@@ -1,0 +1,13 @@
+{
+  "type": "wires",
+  "difficulty": "medium",
+  "wires": [
+    "black",
+    "blue",
+    "red",
+    "yellow"
+  ],
+  "solutionIndex": 3,
+  "question": "緊急協議：當序列以黑色引線起始，且末端偵測到黃色頻率信號時，必須立即切斷最末端的引線以防止核心電力過載。",
+  "hint": "確認第一條線的顏色，並依據指示處理最後一條線。"
+}
