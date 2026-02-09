@@ -1,0 +1,7 @@
+{
+  "type": "frequency",
+  "difficulty": "medium",
+  "targetMhz": 489,
+  "question": "通訊指令：在半千頻率點下調十一格，尋找八十年代末那個四月的殘響。",
+  "hint": "計算 500 減去 11，或將 4 月與 89 年的數字按順序排列。"
+}
