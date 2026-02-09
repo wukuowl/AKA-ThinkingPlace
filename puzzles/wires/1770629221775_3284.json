@@ -1,0 +1,13 @@
+{
+  "type": "wires",
+  "difficulty": "medium",
+  "wires": [
+    "green",
+    "yellow",
+    "blue",
+    "red"
+  ],
+  "solutionIndex": 3,
+  "question": "緊急處置協定：當導線序列中不存在黑色線纜，且末端連接埠顯示為紅色光譜時，必須立即切斷序列中最末端的導線以穩定核心頻率。",
+  "hint": "檢查導線顏色組合，並判斷最後一條線的顏色是否符合特定條件。"
+}
