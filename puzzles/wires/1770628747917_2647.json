@@ -1,0 +1,14 @@
+{
+  "type": "wires",
+  "difficulty": "medium",
+  "wires": [
+    "yellow",
+    "red",
+    "blue",
+    "blue",
+    "white"
+  ],
+  "solutionIndex": 2,
+  "question": "緊急協議：若系統偵測到黃色導線位於首位且存在複數藍色路徑，請立即剪斷排序最前方的藍色脈衝線以防止核心過載。",
+  "hint": "定位多個重複顏色中位置最靠前的那一條。"
+}
