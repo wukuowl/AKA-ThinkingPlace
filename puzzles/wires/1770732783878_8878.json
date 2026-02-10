@@ -1,0 +1,14 @@
+{
+  "type": "wires",
+  "difficulty": "medium",
+  "wires": [
+    "green",
+    "white",
+    "blue",
+    "white",
+    "red"
+  ],
+  "solutionIndex": 4,
+  "question": "緊急協定：當導線序列中存在複數純白頻率，且序列以單一熱源警告色作結時，請立即切斷該終端迴路以防核心過載。",
+  "hint": "尋找那抹在賽博廢墟中，象徵生命最後一次跳動的殘影。"
+}
