@@ -1,0 +1,8 @@
+{
+  "type": "coordinates",
+  "difficulty": "medium",
+  "targetX": 69,
+  "targetY": 87,
+  "question": "六旬又九步東行，橫軸之上覓蹤影；八旬有七凌雲志，北望高處意難平。",
+  "hint": "目標位於右上象限，且橫縱座標均為奇數。"
+}
