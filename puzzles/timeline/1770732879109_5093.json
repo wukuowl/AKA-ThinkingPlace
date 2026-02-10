@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "Power supply sends a signal to the motherboard to initialize the CPU",
+    "The BIOS/UEFI performs the Power-On Self-Test (POST) to check hardware health",
+    "The bootloader is located and loaded from the primary storage device into RAM",
+    "The operating system kernel initializes and assumes control of the system hardware",
+    "User-space services are launched and the login interface is displayed"
+  ],
+  "initialOrder": [
+    2,
+    3,
+    1,
+    4,
+    0
+  ],
+  "question": "Arrange the steps of a computer system boot sequence in the correct chronological order.",
+  "hint": "Consider that hardware initialization and self-checks must be completed before any software or kernel components can be loaded into memory."
+}
