@@ -1,0 +1,14 @@
+{
+  "type": "wires",
+  "difficulty": "medium",
+  "wires": [
+    "green",
+    "yellow",
+    "red",
+    "green",
+    "black"
+  ],
+  "solutionIndex": 4,
+  "question": "緊急協定 88-B：若系統迴路中偵測到複數翡翠色脈衝，且缺乏任何天藍色相位穩定器，操作員必須立即切斷序列末端的暗影接點以防止核心熔毀。",
+  "hint": "萬物終將回歸的寂靜深淵，那是光抵達不了的盡頭。"
+}
