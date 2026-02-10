@@ -1,0 +1,18 @@
+{
+  "type": "keypad",
+  "difficulty": "hard",
+  "icons": [
+    "Ghost",
+    "Skull",
+    "Cpu",
+    "Flame"
+  ],
+  "solutionOrder": [
+    0,
+    2,
+    3,
+    1
+  ],
+  "question": "最初是無形的幽影在深淵徘徊，隨後金屬的核心在秩序中編織。當淨化的紅蓮吞噬了混沌，最終唯有枯槁的容顏在塵土中永恆。",
+  "hint": "依循從虛無到理性，再經由熾熱走向終結的路徑。"
+}
