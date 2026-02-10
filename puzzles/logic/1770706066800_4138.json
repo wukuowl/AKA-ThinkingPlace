@@ -1,0 +1,17 @@
+{
+  "type": "logic",
+  "difficulty": "hard",
+  "variables": [
+    "A",
+    "B",
+    "C"
+  ],
+  "expression": "(A XOR B) AND (NOT C)",
+  "solutionState": [
+    true,
+    false,
+    false
+  ],
+  "question": "在一個邏輯電路中，A 與 B 執行互斥或 (XOR) 運算，且該結果與 C 的否定 (NOT) 進行且 (AND) 運算。若要讓電路輸出為 True，A、B、C 的值應為何？",
+  "hint": "A 不是假值，C 的狀態並非真值，且 B 與 A 的布林值不相同。"
+}
