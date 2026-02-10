@@ -1,0 +1,11 @@
+{
+  "type": "terminal",
+  "difficulty": "hard",
+  "logs": [
+    "2023-11-01 12:45:30 ERROR: Permission denied (os error 13) accessing /var/log/syslog",
+    "2023-11-01 12:45:30 FATAL: User lacks necessary privileges to modify kernel parameters"
+  ],
+  "command": "sudo",
+  "question": "Which command allows a permitted user to execute a command as the superuser or another user?",
+  "hint": "Elevate privileges"
+}
