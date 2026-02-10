@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "User authentication request initiated",
+    "Security credentials validated by the identity provider",
+    "Session token generated and issued to the client",
+    "Resource access granted based on valid session token",
+    "Transaction logs updated with access details"
+  ],
+  "initialOrder": [
+    4,
+    2,
+    3,
+    1,
+    0
+  ],
+  "question": "In what sequence did the system process the user's login and resource access?",
+  "hint": "Remember that the cause, such as identity validation, must precede the effect, which is the granting of access."
+}
