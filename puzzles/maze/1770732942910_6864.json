@@ -1,0 +1,52 @@
+{
+  "type": "maze",
+  "difficulty": "hard",
+  "grid": [
+    [
+      2,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      3
+    ]
+  ],
+  "startPos": {
+    "x": 0,
+    "y": 0
+  },
+  "endPos": {
+    "x": 4,
+    "y": 4
+  },
+  "pathLength": 0,
+  "question": "Can you navigate the packet through the network from the source [0,0] to the destination [4,4] while dodging the active firewalls?",
+  "hint": "Follow the open ports and avoid the firewalls to ensure the data reaches its destination."
+}
