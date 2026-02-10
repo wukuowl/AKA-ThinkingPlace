@@ -1,0 +1,17 @@
+{
+  "type": "logic",
+  "difficulty": "hard",
+  "variables": [
+    "A",
+    "B",
+    "C"
+  ],
+  "expression": "(A AND B) XOR (NOT C)",
+  "solutionState": [
+    true,
+    true,
+    true
+  ],
+  "question": "在一個邏輯電路中，有三個開關 A、B 和 C。當表達式 (A AND B) XOR (NOT C) 的結果為真時，電路將會導通。請找出讓電路導通的一組開關狀態。",
+  "hint": "開關 A 與 B 皆非處於斷開狀態，且 C 的狀態並非不開啟。"
+}
