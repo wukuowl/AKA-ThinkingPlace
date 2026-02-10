@@ -1,0 +1,8 @@
+{
+  "type": "coordinates",
+  "difficulty": "medium",
+  "targetX": 62,
+  "targetY": 78,
+  "question": "穿過中線往東走，六十有二留步。再向北行攀高處，七十又八止步。我在何方？",
+  "hint": "位於右上象限，且橫縱座標皆為偶數。"
+}
