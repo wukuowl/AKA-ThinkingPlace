@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "System initialization sequence starts",
+    "Kernel loads core modules and drivers",
+    "Network interface 'eth0' initialized with IP 192.168.1.10",
+    "Remote SSH connection established for user 'admin'",
+    "System shutdown signal received from terminal"
+  ],
+  "initialOrder": [
+    1,
+    3,
+    2,
+    4,
+    0
+  ],
+  "question": "Arrange these system log entries in the correct chronological order.",
+  "hint": "In a system lifecycle, remember that cause precedes effect: initialization and network setup must occur before external connections can be established."
+}
