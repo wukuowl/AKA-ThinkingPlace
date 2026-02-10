@@ -1,0 +1,11 @@
+{
+  "type": "terminal",
+  "difficulty": "hard",
+  "logs": [
+    "Oct 27 14:22:01 server systemd[1]: Failed to start Nginx. Permission denied.",
+    "Oct 27 14:22:01 server bash[4512]: /usr/sbin/nginx: Access denied."
+  ],
+  "command": "sudo",
+  "question": "Enter the command used to run tasks with root permissions.",
+  "hint": "Elevate privileges"
+}
