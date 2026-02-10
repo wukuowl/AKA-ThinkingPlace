@@ -1,0 +1,11 @@
+{
+  "type": "terminal",
+  "difficulty": "hard",
+  "logs": [
+    "E: Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)",
+    "E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?"
+  ],
+  "command": "sudo",
+  "question": "Enter the command prefix needed to execute the update with administrative rights.",
+  "hint": "Elevate privileges"
+}
