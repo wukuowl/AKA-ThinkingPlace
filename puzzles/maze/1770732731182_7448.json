@@ -1,0 +1,52 @@
+{
+  "type": "maze",
+  "difficulty": "hard",
+  "grid": [
+    [
+      2,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      3
+    ]
+  ],
+  "startPos": {
+    "x": 0,
+    "y": 0
+  },
+  "endPos": {
+    "x": 4,
+    "y": 4
+  },
+  "pathLength": 0,
+  "question": "You are a data packet entering a network node. Can you find your way from the source [0,0] to the destination server [4,4] without hitting a firewall block?",
+  "hint": "Follow the open ports and avoid the firewalls."
+}
