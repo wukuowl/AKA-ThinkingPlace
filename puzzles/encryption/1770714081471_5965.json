@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "9002",
+  "maxAttempts": 10,
+  "question": "CRITICAL ALERT: Unauthorized access detected at Node 7. Firewall integrity compromised. Decrypt the secondary handshake protocol to regain control.",
+  "hint": "Standard Brute Force Protocol"
+}
