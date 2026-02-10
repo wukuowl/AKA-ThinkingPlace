@@ -1,0 +1,11 @@
+{
+  "type": "terminal",
+  "difficulty": "hard",
+  "logs": [
+    "2023-10-27 10:00:01 ERROR: Permission denied accessing /etc/shadow",
+    "2023-10-27 10:00:02 CRITICAL: User 'worker' does not have sufficient rights."
+  ],
+  "command": "sudo",
+  "question": "What command allows you to run the instruction with administrative permissions?",
+  "hint": "Elevate privileges"
+}
