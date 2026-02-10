@@ -1,0 +1,14 @@
+{
+  "type": "sequence",
+  "difficulty": "medium",
+  "sequence": [
+    "2",
+    "6",
+    "12",
+    "20",
+    "?"
+  ],
+  "answer": "30",
+  "question": "Complete the numerical sequence by identifying the underlying pattern.",
+  "hint": "The increment between consecutive numbers follows a simple linear growth."
+}
