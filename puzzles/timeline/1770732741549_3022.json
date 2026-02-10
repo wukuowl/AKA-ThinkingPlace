@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "User initiates a secure login request to the cloud gateway",
+    "Identity provider verifies credentials and issues a multi-factor authentication prompt",
+    "System validates the one-time passcode and generates a session token",
+    "Load balancer routes the authenticated user to the internal dashboard service",
+    "Dashboard service fetches personalized data from the database and renders the UI"
+  ],
+  "initialOrder": [
+    3,
+    4,
+    0,
+    1,
+    2
+  ],
+  "question": "Arrange these system log entries in the correct order of a successful user authentication and session start.",
+  "hint": "Cause precedes effect: identity verification must be completed before a session token is granted."
+}
