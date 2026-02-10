@@ -1,0 +1,33 @@
+{
+  "type": "filter",
+  "difficulty": "medium",
+  "items": [
+    {
+      "isKeep": true,
+      "text": "Fingerprint scan telemetry data"
+    },
+    {
+      "isKeep": true,
+      "text": "Retinal scan biometric template"
+    },
+    {
+      "isKeep": true,
+      "text": "Facial geometry recognition hash"
+    },
+    {
+      "isKeep": false,
+      "text": "Standard TCP SYN packet"
+    },
+    {
+      "isKeep": false,
+      "text": "DNS query for external domain"
+    },
+    {
+      "isKeep": false,
+      "text": "HTTP 404 error response"
+    }
+  ],
+  "rule": "Keep Biometric Signatures, Discard Network Protocols",
+  "question": "Which of these data packets contain biological identification markers for authentication?",
+  "hint": "Focus on the biological traits captured for identity verification."
+}
