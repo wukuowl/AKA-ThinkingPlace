@@ -1,0 +1,14 @@
+{
+  "type": "wires",
+  "difficulty": "medium",
+  "wires": [
+    "yellow",
+    "yellow",
+    "black",
+    "blue",
+    "yellow"
+  ],
+  "solutionIndex": 0,
+  "question": "【緊急協定：核心解構】若模組中黃色線纜數量大於二，且存在單一藍色干擾源，請立即切斷整體序列中的首位傳導路徑以防止系統崩潰。",
+  "hint": "在群星閃爍前，最先捕捉到的那一道晨曦。"
+}
