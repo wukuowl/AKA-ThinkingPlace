@@ -1,0 +1,14 @@
+{
+  "type": "wires",
+  "difficulty": "medium",
+  "wires": [
+    "yellow",
+    "blue",
+    "yellow",
+    "blue",
+    "green"
+  ],
+  "solutionIndex": 2,
+  "question": "【緊急處置協定 2049】若終端線路穩定於翠綠色相，且前四道迴路呈現交替脈衝，請立即切斷那根被兩道深藍波段夾持的金黃核心。",
+  "hint": "在雙重的憂鬱之中，尋找被囚禁的烈日。"
+}
