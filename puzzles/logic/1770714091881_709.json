@@ -1,0 +1,17 @@
+{
+  "type": "logic",
+  "difficulty": "hard",
+  "variables": [
+    "A",
+    "B",
+    "C"
+  ],
+  "expression": "(A AND (NOT B)) XOR C",
+  "solutionState": [
+    true,
+    false,
+    false
+  ],
+  "question": "請找出使布林邏輯表達式 (A AND (NOT B)) XOR C 結果為真的一組變數 A、B、C 的布林值。",
+  "hint": "變數 A 並非處於假值狀態，而 B 的邏輯值與 A 相左。在此條件下，若要讓最終的 XOR 運算輸出為真，C 必須與前項 AND 運算的結果保持互斥且目前應處於否定的狀態。"
+}
