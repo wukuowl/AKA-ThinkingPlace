@@ -1,0 +1,13 @@
+{
+  "type": "wires",
+  "difficulty": "medium",
+  "wires": [
+    "green",
+    "blue",
+    "black",
+    "green"
+  ],
+  "solutionIndex": 1,
+  "question": "系統核心防禦協議：若偵測到序列中存在兩條翡翠色導線，請立即切斷緊鄰首條翡翠導線之後、且不具備虛無特性的那條數據鏈路。",
+  "hint": "在霓虹閃爍的鋼鐵叢林中，尋找那抹沉溺於深海、如憂鬱之淚般的純粹頻率。"
+}
