@@ -1,0 +1,8 @@
+{
+  "type": "coordinates",
+  "difficulty": "medium",
+  "targetX": 78,
+  "targetY": 71,
+  "question": "身處東方之境，遙望北辰之巔；橫行七八里地，直上七十一旋。請尋此座標。",
+  "hint": "位於右上象限，且橫坐標為偶數。"
+}
