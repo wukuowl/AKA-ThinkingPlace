@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "7423",
+  "maxAttempts": 10,
+  "question": "CRITICAL ALERT: PERIMETER BREACH DETECTED. SECTOR 7G FIREWALL COMPROMISED. SEQUENCE OVERRIDE REQUIRED TO RE-ESTABLISH ENCRYPTION. ENTER VALID DECRYPTION KEY TO PREVENT DATA EXFILTRATION.",
+  "hint": "Standard Brute Force Protocol"
+}
