@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "User initiates login request at 08:00:01",
+    "Authentication server receives encrypted credentials at 08:00:02",
+    "Database validates user credentials at 08:00:03",
+    "Session token generated for the user profile at 08:00:04",
+    "Dashboard interface rendered on user's browser at 08:00:05"
+  ],
+  "initialOrder": [
+    3,
+    1,
+    0,
+    4,
+    2
+  ],
+  "question": "What is the correct sequence of events for a successful system login process?",
+  "hint": "Remember that cause precedes effect in a logical system flow."
+}
