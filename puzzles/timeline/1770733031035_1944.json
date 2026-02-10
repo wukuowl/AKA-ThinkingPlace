@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "The system BIOS completes the Power-on Self-test (POST) and identifies the bootable storage device.",
+    "The bootloader loads the operating system kernel into memory and hands over execution control.",
+    "The kernel initializes system hardware drivers and mounts the root filesystem to access configuration files.",
+    "The service manager starts the networking stack and peripheral daemons required for user interaction.",
+    "The display manager launches the graphical login screen and awaits user authentication credentials."
+  ],
+  "initialOrder": [
+    1,
+    4,
+    0,
+    2,
+    3
+  ],
+  "question": "In what sequence did the system prepare the environment before the user could log in?",
+  "hint": "Identify the foundational hardware checks first, as the core must be established before high-level services can run because cause precedes effect."
+}
