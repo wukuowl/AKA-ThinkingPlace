@@ -1,0 +1,8 @@
+{
+  "type": "ascii",
+  "difficulty": "medium",
+  "art": "  _ _ _  \n=[     ]=\n=[     ]=\n=[     ]=\n  - - -  ",
+  "answer": "Microchip",
+  "question": "Identify this fundamental electronic component.",
+  "hint": "It executes logic and arithmetic operations to manage the core processing tasks of a computer system."
+}
