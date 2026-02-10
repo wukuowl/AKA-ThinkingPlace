@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "User initiates an SSH login request from a remote IP address.",
+    "Authentication server verifies credentials against the secure database.",
+    "A terminal session is spawned with process ID 4921.",
+    "User executes 'cat /var/log/syslog' command.",
+    "System kernel logs successful file access and displays content."
+  ],
+  "initialOrder": [
+    3,
+    0,
+    4,
+    2,
+    1
+  ],
+  "question": "Arrange the following system log entries in the correct chronological order from connection to file access.",
+  "hint": "Cause precedes effect: a session must be authenticated before a command can be executed within it."
+}
