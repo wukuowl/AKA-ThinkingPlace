@@ -1,0 +1,8 @@
+{
+  "type": "coordinates",
+  "difficulty": "medium",
+  "targetX": 66,
+  "targetY": 43,
+  "question": "橫看成嶺雙六列，側看成峰四三懸。雷達波頻收此處，寶藏就在深處眠。",
+  "hint": "橫座標為偶數，且位於地圖的右下象限。"
+}
