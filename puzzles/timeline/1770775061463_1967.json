@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "Power-On Self-Test (POST) validates hardware components",
+    "The bootloader transfers control to the operating system kernel",
+    "The kernel initializes essential drivers and mounts the root filesystem",
+    "The system init process spawns background services and daemons",
+    "The login manager displays the user authentication prompt"
+  ],
+  "initialOrder": [
+    1,
+    0,
+    2,
+    4,
+    3
+  ],
+  "question": "Arrange these system boot sequences in the correct chronological order from startup to user readiness.",
+  "hint": "Cause precedes effect: hardware must be verified before the software kernel can take control of the system."
+}
