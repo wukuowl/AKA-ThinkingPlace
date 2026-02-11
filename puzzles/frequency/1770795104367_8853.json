@@ -1,0 +1,7 @@
+{
+  "type": "frequency",
+  "difficulty": "medium",
+  "targetMhz": 109,
+  "question": "通訊指令：將指針撥過整數世紀的基石，跨越空無的十位區間，最終鎖定在個位數的極陽之頂。",
+  "hint": "這個頻率與二戰時期德國空軍最著名的梅塞施密特（Messerschmitt）主力戰鬥機型號完全一致。"
+}
