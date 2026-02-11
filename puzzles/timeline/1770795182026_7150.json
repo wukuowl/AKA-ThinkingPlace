@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "The application server receives an HTTP request from a client device.",
+    "The load balancer distributes the traffic to an available worker node.",
+    "The database executes a query to retrieve the requested user profile data.",
+    "The server serializes the retrieved data into a JSON response.",
+    "The client-side browser renders the user profile information on the screen."
+  ],
+  "initialOrder": [
+    2,
+    3,
+    1,
+    4,
+    0
+  ],
+  "question": "Reconstruct the system log events in the correct chronological sequence.",
+  "hint": "Ensure the sequence follows a logical flow where each action is triggered by the previous one, as cause precedes effect."
+}
