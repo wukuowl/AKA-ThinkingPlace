@@ -1,0 +1,12 @@
+{
+  "type": "symbolic",
+  "difficulty": "medium",
+  "symbols": [
+    "💊",
+    "🕶️",
+    "💻"
+  ],
+  "answer": "The Matrix",
+  "question": "Identify the movie represented by these emojis.",
+  "hint": "A seminal late-1990s science fiction action film involving simulated reality."
+}
