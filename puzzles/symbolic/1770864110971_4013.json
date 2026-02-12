@@ -1,0 +1,12 @@
+{
+  "type": "symbolic",
+  "difficulty": "medium",
+  "symbols": [
+    "☁️",
+    "💻",
+    "💾"
+  ],
+  "answer": "Cloud Computing",
+  "question": "What modern tech infrastructure concept is shown?",
+  "hint": "A 21st-century paradigm shift in data storage and processing services over the internet."
+}
