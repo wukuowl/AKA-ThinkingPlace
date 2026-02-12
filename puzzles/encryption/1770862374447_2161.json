@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "3544",
+  "maxAttempts": 10,
+  "question": "CRITICAL ALERT: External intrusion detected at Node 7. Firewall integrity failing. Input decryption key to re-establish perimeter.",
+  "hint": "Standard Brute Force Protocol"
+}
