@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "9873",
+  "maxAttempts": 10,
+  "question": "CRITICAL SYSTEM ALERT: SECURITY LAYER 7 COMPROMISED. EXTERNAL ENTITY ATTEMPTING UNAUTHORIZED DATA EXFILTRATION. INPUT DEFENSIVE CIPHER TO RE-ESTABLISH SECURE LINK.",
+  "hint": "Standard Brute Force Protocol"
+}
