@@ -1,0 +1,7 @@
+{
+  "type": "morse",
+  "difficulty": "hard",
+  "word": "SOS",
+  "question": "The receiver picks up a repeating sequence: three short pulses, three long pulses, and three short pulses. What is this signal?",
+  "hint": "A standard distress call."
+}
