@@ -1,0 +1,12 @@
+{
+  "type": "symbolic",
+  "difficulty": "medium",
+  "symbols": [
+    "💊",
+    "🕶️",
+    "🟢"
+  ],
+  "answer": "The Matrix",
+  "question": "Identify the movie from the symbols provided.",
+  "hint": "A late 90s science fiction action film involving simulated reality."
+}
