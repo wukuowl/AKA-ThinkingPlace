@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "2177",
+  "maxAttempts": 10,
+  "question": "CRITICAL ALERT: Unauthorized access detected at External Firewall Node 04. System integrity compromised. Initialize emergency decryption to lockout the intruder immediately.",
+  "hint": "Standard Brute Force Protocol"
+}
