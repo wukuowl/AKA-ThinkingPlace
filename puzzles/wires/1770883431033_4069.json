@@ -1,0 +1,13 @@
+{
+  "type": "wires",
+  "difficulty": "medium",
+  "wires": [
+    "yellow",
+    "green",
+    "yellow",
+    "blue"
+  ],
+  "solutionIndex": 1,
+  "question": "【守則 0x1A4】當序列中存在重複的色彩頻率時，請立即切斷被夾在重複頻率之間的那根線纜，以防止系統核心發生鏈式反應。",
+  "hint": "在兩道凝固的閃電裂隙中，埋藏著森林最後的脈動。"
+}
