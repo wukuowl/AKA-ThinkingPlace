@@ -1,0 +1,13 @@
+{
+  "type": "wires",
+  "difficulty": "medium",
+  "wires": [
+    "white",
+    "black",
+    "red",
+    "black"
+  ],
+  "solutionIndex": 3,
+  "question": "緊急協議 0x3F：若電路模組中存在複數「虛無」導線且伴隨「生命緋紅」訊號，必須切斷序列中最末端的暗影接點以完成系統解構。",
+  "hint": "在永夜的長廊深處，尋找那最後一抹寂靜的寒意。"
+}
