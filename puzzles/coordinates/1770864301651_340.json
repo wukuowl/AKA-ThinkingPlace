@@ -1,0 +1,8 @@
+{
+  "type": "coordinates",
+  "difficulty": "medium",
+  "targetX": 12,
+  "targetY": 35,
+  "question": "訊號閃爍在雷達的西方邊緣，水平位移恰如一年的月份輪迴，垂直高度停在五七乘積之處，請鎖定目標位置。",
+  "hint": "位於左下象限，且橫坐標為偶數。"
+}
