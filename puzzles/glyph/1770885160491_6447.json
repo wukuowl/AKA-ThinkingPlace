@@ -1,0 +1,8 @@
+{
+  "type": "glyph",
+  "difficulty": "medium",
+  "targetAngle": 90,
+  "symbol": "Sun",
+  "question": "Rotate the solar glyph to face the horizon where the dawn first breaks.",
+  "hint": "The symbol must point toward the birthplace of the morning light."
+}
