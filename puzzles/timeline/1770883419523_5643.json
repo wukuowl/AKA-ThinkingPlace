@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "Power supply unit initiates self-test",
+    "BIOS performs Power-On Self-Test (POST)",
+    "Bootloader loads the operating system kernel into memory",
+    "Kernel initializes system drivers and services",
+    "User login prompt is displayed on the console"
+  ],
+  "initialOrder": [
+    1,
+    3,
+    4,
+    0,
+    2
+  ],
+  "question": "Arrange these system startup events in the correct chronological order from hardware initialization to user interface availability.",
+  "hint": "Remember that hardware must be verified before the operating system can be loaded, and the kernel must be active before services can start; cause precedes effect."
+}
