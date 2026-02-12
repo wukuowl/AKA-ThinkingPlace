@@ -1,0 +1,18 @@
+{
+  "type": "keypad",
+  "difficulty": "hard",
+  "icons": [
+    "Zap",
+    "Shield",
+    "Cpu",
+    "Wifi"
+  ],
+  "solutionOrder": [
+    2,
+    3,
+    0,
+    1
+  ],
+  "question": "萬象始於機樞，絲線結於虛空，霹靂瞬息而至，金湯永固不破。按此律，開此門。",
+  "hint": "智慧生發之處，波紋擴散之時，力量釋放之後，安穩守護之所。"
+}
