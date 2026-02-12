@@ -1,0 +1,11 @@
+{
+  "type": "terminal",
+  "difficulty": "hard",
+  "logs": [
+    "permission denied while attempting to open /var/log/syslog",
+    "E: Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)"
+  ],
+  "command": "sudo",
+  "question": "Apply the necessary prefix to execute the command with administrative rights.",
+  "hint": "Elevate privileges"
+}
