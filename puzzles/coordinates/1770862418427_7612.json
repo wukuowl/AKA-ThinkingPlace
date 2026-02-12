@@ -1,0 +1,8 @@
+{
+  "type": "coordinates",
+  "difficulty": "medium",
+  "targetX": 32,
+  "targetY": 17,
+  "question": "橫向五巡雙影疊，縱歸素數點寒星。欲覓此間精確位，需從零界步徐行。",
+  "hint": "X座標為偶數，且目標位於雷達的左下象限。"
+}
