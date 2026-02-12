@@ -1,0 +1,8 @@
+{
+  "type": "ascii",
+  "difficulty": "medium",
+  "art": "[|:::[CPU]::|]",
+  "answer": "Microchip",
+  "question": "Identify this core component from the terminal's motherboard.",
+  "hint": "It serves as the logic center for processing all binary instructions within the machine."
+}
