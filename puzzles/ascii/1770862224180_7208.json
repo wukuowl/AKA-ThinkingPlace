@@ -1,0 +1,8 @@
+{
+  "type": "ascii",
+  "difficulty": "medium",
+  "art": "  _________   |  _   _  |  | | | | | |  | |_| |_| |  |_________| ",
+  "answer": "Floppy Disk",
+  "question": "Identify this vintage storage medium found in the terminal's manual drive.",
+  "hint": "It allows for the portable transfer of small data files between air-gapped computer systems."
+}
