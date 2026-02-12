@@ -1,0 +1,11 @@
+{
+  "type": "terminal",
+  "difficulty": "hard",
+  "logs": [
+    "2023-10-27 14:05:12 ERROR: Permission denied (os error 13) at /var/www/html/index.php",
+    "CRITICAL: Unable to save changes to configuration file due to insufficient rights"
+  ],
+  "command": "sudo",
+  "question": "Provide the command needed to execute the operation with root access.",
+  "hint": "Elevate privileges"
+}
