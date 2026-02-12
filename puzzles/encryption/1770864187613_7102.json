@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "9655",
+  "maxAttempts": 10,
+  "question": "CRITICAL ALERT: Firewall integrity compromised. Unauthorized access detected at Secure Node 4. Perimeter breach imminent. Decrypt the security handshake to re-establish defensive protocols.",
+  "hint": "Standard Brute Force Protocol"
+}
