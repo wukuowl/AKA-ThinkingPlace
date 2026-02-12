@@ -1,0 +1,24 @@
+{
+  "type": "pattern",
+  "difficulty": "hard",
+  "grid": [
+    "2",
+    "4",
+    "8",
+    "3",
+    "9",
+    "27",
+    "4",
+    "16",
+    "?"
+  ],
+  "options": [
+    "32",
+    "64",
+    "48",
+    "20"
+  ],
+  "correctOptionIndex": 1,
+  "question": "Find the missing number in the sequence.",
+  "hint": "Each row follows a power sequence where the second number is the square and the third number is the cube of the first number."
+}
