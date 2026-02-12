@@ -1,0 +1,8 @@
+{
+  "type": "coordinates",
+  "difficulty": "medium",
+  "targetX": 45,
+  "targetY": 23,
+  "question": "在方陣的廣大領域中，我位於水平中線的左側邊緣，並在垂直高度的低處潛行。這兩組數字的總和是六十八，而它們的差值是二十二。",
+  "hint": "座標位於左下象限，且 X 與 Y 均為奇數。"
+}
