@@ -1,0 +1,17 @@
+{
+  "type": "logic",
+  "difficulty": "hard",
+  "variables": [
+    "A",
+    "B",
+    "C"
+  ],
+  "expression": "(A XOR B) AND (B OR C)",
+  "solutionState": [
+    true,
+    false,
+    true
+  ],
+  "question": "在一個邏輯電路中，有三個變量 A、B 和 C。請找出使運算式 (A XOR B) AND (B OR C) 為真的布林值組合。",
+  "hint": "A 與 B 具有不同的電位，且 B 與 C 的邏輯或 (OR) 結果為真，但 B 本身並非處於開啟狀態。"
+}
