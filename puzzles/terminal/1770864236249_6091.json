@@ -1,0 +1,11 @@
+{
+  "type": "terminal",
+  "difficulty": "hard",
+  "logs": [
+    "2023-10-27 10:00:01 - ERROR - Permission denied: /etc/shadow",
+    "2023-10-27 10:00:01 - CRITICAL - Failed to execute command due to insufficient rights"
+  ],
+  "command": "sudo",
+  "question": "Which command should be used to execute the previous operation with administrative permissions?",
+  "hint": "Elevate privileges"
+}
