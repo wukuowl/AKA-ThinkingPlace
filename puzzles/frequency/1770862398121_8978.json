@@ -1,0 +1,7 @@
+{
+  "type": "frequency",
+  "difficulty": "medium",
+  "targetMhz": 490,
+  "question": "「通訊官，請鎖定目標：將神聖之七平方後的十倍量級。」",
+  "hint": "「該數值與全球航海安全信息系統（NAVTEX）常用之千赫茲頻率分量一致。」"
+}
