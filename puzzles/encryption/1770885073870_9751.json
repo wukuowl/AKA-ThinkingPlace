@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "0814",
+  "maxAttempts": 10,
+  "question": "CRITICAL ALERT: Unauthorized access detected. Firewall integrity is failing at Sector 7. Enter the bypass decryption key immediately to prevent data exfiltration.",
+  "hint": "Standard Brute Force Protocol"
+}
