@@ -1,0 +1,17 @@
+{
+  "type": "logic",
+  "difficulty": "hard",
+  "variables": [
+    "A",
+    "B",
+    "C"
+  ],
+  "expression": "(A AND B) XOR (NOT C)",
+  "solutionState": [
+    true,
+    true,
+    true
+  ],
+  "question": "請找出使布林運算式 (A AND B) XOR (NOT C) 為真（True）的變數 A、B、C 組合。",
+  "hint": "當 A 與 B 皆不處於關閉狀態，且 C 也非偽值時，請檢查此運算式的邏輯結果。"
+}
