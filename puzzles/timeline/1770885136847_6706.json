@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "User initiates a password reset request",
+    "System generates a unique verification token",
+    "Email containing the reset link is dispatched to the user",
+    "User clicks the link and enters a new password",
+    "Database updates the stored hash and invalidates the token"
+  ],
+  "initialOrder": [
+    3,
+    0,
+    1,
+    4,
+    2
+  ],
+  "question": "Arrange these system log events in the correct chronological order.",
+  "hint": "Remember that cause precedes effect: a token must be generated before it can be sent or used."
+}
