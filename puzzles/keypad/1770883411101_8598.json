@@ -1,0 +1,18 @@
+{
+  "type": "keypad",
+  "difficulty": "hard",
+  "icons": [
+    "Shield",
+    "Zap",
+    "Anchor",
+    "Flame"
+  ],
+  "solutionOrder": [
+    2,
+    0,
+    1,
+    3
+  ],
+  "question": "萬物啟迪之初，須沉入重淵以定其位；繼而築起銅牆，隔絕紛擾。及至霹靂貫穿虛無，方得引燃永恆之光。按此古訓，方可解開禁制。",
+  "hint": "始於止境，承以守勢，經由瞬閃，歸於熾烈。"
+}
