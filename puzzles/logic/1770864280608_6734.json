@@ -1,0 +1,17 @@
+{
+  "type": "logic",
+  "difficulty": "hard",
+  "variables": [
+    "A",
+    "B",
+    "C"
+  ],
+  "expression": "(A AND (NOT B)) XOR C",
+  "solutionState": [
+    true,
+    false,
+    false
+  ],
+  "question": "在一個邏輯電路中，有三個變數 A、B 和 C。請找出能讓以下邏輯表達式結果為『真』的變數組合。",
+  "hint": "當 B 處於關閉狀態且 C 也是關閉狀態時，若要使整個電路導通，A 必須不能是關閉的。"
+}
