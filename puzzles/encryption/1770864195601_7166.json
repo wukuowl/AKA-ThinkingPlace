@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "9393",
+  "maxAttempts": 10,
+  "question": "CRITICAL ALERT: SECTOR 7G FIREWALL BREACH DETECTED. UNAUTHORIZED ENTITY ATTEMPTING RAPID SEQUENTIAL ACCESS. DECRYPT THE OVERRIDE COMMAND TO RE-ESTABLISH PERIMETER SECURITY.",
+  "hint": "Standard Brute Force Protocol"
+}
