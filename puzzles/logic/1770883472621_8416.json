@@ -1,0 +1,17 @@
+{
+  "type": "logic",
+  "difficulty": "hard",
+  "variables": [
+    "A",
+    "B",
+    "C"
+  ],
+  "expression": "(A XOR B) AND C",
+  "solutionState": [
+    true,
+    false,
+    true
+  ],
+  "question": "在一個由三個邏輯變數 A、B 和 C 組成的電路中，請找出能讓最終輸出為真的變數狀態組合。",
+  "hint": "A 與 B 的值處於相反狀態，且 C 的狀態並非不為假。"
+}
