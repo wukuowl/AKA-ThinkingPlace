@@ -1,0 +1,52 @@
+{
+  "type": "maze",
+  "difficulty": "hard",
+  "grid": [
+    [
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0,
+      3
+    ]
+  ],
+  "startPos": {
+    "x": 0,
+    "y": 0
+  },
+  "endPos": {
+    "x": 4,
+    "y": 4
+  },
+  "pathLength": 0,
+  "question": "Navigate the data packet through the network router. Find the open route from the source at [0,0] to the destination at [4,4].",
+  "hint": "Avoid the firewalls to reach your destination."
+}
