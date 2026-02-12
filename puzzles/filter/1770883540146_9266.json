@@ -1,0 +1,33 @@
+{
+  "type": "filter",
+  "difficulty": "medium",
+  "items": [
+    {
+      "isKeep": true,
+      "text": "Keystroke dynamics matching human rhythm"
+    },
+    {
+      "isKeep": false,
+      "text": "Rapid-fire 1ms request intervals"
+    },
+    {
+      "isKeep": true,
+      "text": "Mouse movement following a parabolic path"
+    },
+    {
+      "isKeep": false,
+      "text": "Accessing hidden honeypot link via direct API call"
+    },
+    {
+      "isKeep": true,
+      "text": "Touchscreen pressure sensitivity data"
+    },
+    {
+      "isKeep": false,
+      "text": "Automated headless browser user-agent"
+    }
+  ],
+  "rule": "Keep Human Behavioral Patterns, Discard Automated Bot Traces",
+  "question": "Identify the data packets that represent biological user interactions.",
+  "hint": "Focus on the biological traits and organic movement patterns within the traffic logs."
+}
