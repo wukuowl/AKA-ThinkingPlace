@@ -1,0 +1,52 @@
+{
+  "type": "maze",
+  "difficulty": "hard",
+  "grid": [
+    [
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0,
+      3
+    ]
+  ],
+  "startPos": {
+    "x": 0,
+    "y": 0
+  },
+  "endPos": {
+    "x": 4,
+    "y": 4
+  },
+  "pathLength": 0,
+  "question": "Navigate the data packets through the network from source [0,0] to destination [4,4] while avoiding security firewalls.",
+  "hint": "Avoid the firewalls represented by 1s to ensure successful packet delivery."
+}
