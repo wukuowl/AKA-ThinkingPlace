@@ -1,0 +1,12 @@
+{
+  "type": "symbolic",
+  "difficulty": "medium",
+  "symbols": [
+    "💊",
+    "🕶️",
+    "💻"
+  ],
+  "answer": "The Matrix",
+  "question": "Identify the famous movie represented by these emojis.",
+  "hint": "A late 1990s cyberpunk science fiction film."
+}
