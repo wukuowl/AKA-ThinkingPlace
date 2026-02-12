@@ -1,0 +1,20 @@
+{
+  "type": "timeline",
+  "difficulty": "hard",
+  "events": [
+    "A user submits their encrypted login credentials to the authentication endpoint.",
+    "The authentication server validates the credentials against the user database.",
+    "The system issues a short-lived JSON Web Token (JWT) for the current session.",
+    "The application redirects the user to their personalized dashboard.",
+    "The system records the successful login event in the global security audit log."
+  ],
+  "initialOrder": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "question": "Arrange the following system authentication events in the correct chronological sequence.",
+  "hint": "Remember that cause precedes effect, so a token can only be issued after validation is complete."
+}
