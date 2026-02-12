@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "0484",
+  "maxAttempts": 10,
+  "question": "CRITICAL ALERT: Unauthorized access detected in sector 7-G. External firewall has been compromised by an iterative login attempt. Enter the override sequence to lockout the intruder.",
+  "hint": "Standard Brute Force Protocol"
+}
