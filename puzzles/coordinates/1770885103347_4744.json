@@ -1,0 +1,8 @@
+{
+  "type": "coordinates",
+  "difficulty": "medium",
+  "targetX": 63,
+  "targetY": 80,
+  "question": "橫越六三之境，攀升八十之巔，於此交會之處，星點悄然浮現。",
+  "hint": "位於東北象限，且縱座標為十的倍數。"
+}
