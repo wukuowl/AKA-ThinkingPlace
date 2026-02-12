@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "9757",
+  "maxAttempts": 10,
+  "question": "CRITICAL ALERT: External intrusion detected at Perimeter Node 04. Firewall integrity compromised. Enter the emergency override code to initiate lockout.",
+  "hint": "Standard Brute Force Protocol"
+}
