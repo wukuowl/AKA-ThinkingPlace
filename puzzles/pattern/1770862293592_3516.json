@@ -1,0 +1,24 @@
+{
+  "type": "pattern",
+  "difficulty": "hard",
+  "grid": [
+    "2",
+    "4",
+    "6",
+    "3",
+    "6",
+    "9",
+    "4",
+    "8",
+    "?"
+  ],
+  "options": [
+    "10",
+    "11",
+    "12",
+    "14"
+  ],
+  "correctOptionIndex": 2,
+  "question": "Identify the number that completes the pattern in the 3x3 grid.",
+  "hint": "The third number in each row is the sum of the first two numbers."
+}
