@@ -1,0 +1,17 @@
+{
+  "type": "logic",
+  "difficulty": "hard",
+  "variables": [
+    "A",
+    "B",
+    "C"
+  ],
+  "expression": "(A XOR B) AND (NOT C)",
+  "solutionState": [
+    true,
+    false,
+    false
+  ],
+  "question": "請找出能使邏輯表達式結果為 True 的變數 A、B、C 組合。表達式為：(A XOR B) AND (NOT C)。",
+  "hint": "A 與 B 的電位狀態必須不一致，且 C 的狀態並非為真。"
+}
