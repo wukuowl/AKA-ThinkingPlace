@@ -1,0 +1,14 @@
+{
+  "type": "sequence",
+  "difficulty": "medium",
+  "sequence": [
+    "2",
+    "6",
+    "12",
+    "20",
+    "?"
+  ],
+  "answer": "30",
+  "question": "Determine the missing value in the following numerical sequence.",
+  "hint": "The difference between consecutive terms follows a simple linear increase."
+}
