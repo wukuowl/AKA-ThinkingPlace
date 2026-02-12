@@ -1,0 +1,52 @@
+{
+  "type": "maze",
+  "difficulty": "hard",
+  "grid": [
+    [
+      2,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      3
+    ]
+  ],
+  "startPos": {
+    "x": 0,
+    "y": 0
+  },
+  "endPos": {
+    "x": 4,
+    "y": 4
+  },
+  "pathLength": 0,
+  "question": "Find the optimal route through the network switches from the entry port at [0,0] to the server at [4,4] while avoiding the firewalls.",
+  "hint": "Avoid the firewalls."
+}
