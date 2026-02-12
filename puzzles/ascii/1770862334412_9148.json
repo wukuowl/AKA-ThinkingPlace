@@ -1,0 +1,8 @@
+{
+  "type": "ascii",
+  "difficulty": "medium",
+  "art": "[=I=I=I=I=I=] | [  CPU  ] | [=I=I=I=I=I=]",
+  "answer": "Microchip",
+  "question": "What is this primary hardware component found at the core of the terminal?",
+  "hint": "It performs arithmetic, logic, and input/output operations to process binary data sequences."
+}
