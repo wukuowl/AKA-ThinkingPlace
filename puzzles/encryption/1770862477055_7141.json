@@ -1,0 +1,8 @@
+{
+  "type": "encryption",
+  "difficulty": "medium",
+  "code": "1720",
+  "maxAttempts": 10,
+  "question": "CRITICAL ALERT: Unauthorized access detected at Node 7G. Firewall integrity compromised by persistent sequential login attempts. Input the bypass sequence to re-establish perimeter control.",
+  "hint": "Standard Brute Force Protocol"
+}
